@@ -16,8 +16,8 @@ Projeyi çalıştırmak için aşağıdaki kütüphanelerin yüklü olması gere
 Gerekli kütüphaneleri yüklemek için terminal veya komut satırında aşağıdaki komutları çalıştırın:
 
 ```bash
-pip install opencv-python mediapipe pyautogui```
-
+pip install opencv-python mediapipe pyautogui
+```
 ## Proje Yapısı
 
 - `index_finger_tip`: İşaret parmağı ucunun kamera tarafından tespit edilen koordinatları.
